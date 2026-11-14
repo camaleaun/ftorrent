@@ -5,6 +5,8 @@
       <stop offset="1" stop-color="#1e9d55"/>
     </linearGradient>
   </defs>
-  <!-- A green disc with a slanted "f" cut out of it (even-odd), so whatever is behind the icon shows through the letter. -->
-  <path fill-rule="evenodd" fill="url(#disc)" d="M 92 512 C 92 280.034 280.034 92 512 92 C 743.966 92 932 280.034 932 512 C 932 743.966 743.966 932 512 932 C 280.034 932 92 743.966 92 512 Z M 408.4 792 L 472.6 500 L 382.6 500 L 400.7 418 L 490.7 418 L 503 362 C 520.6 282 584.5 228 666.5 228 L 762.5 228 L 744 312 L 662 312 C 626 312 601.2 334 593.7 368 L 582.7 418 L 682.7 418 L 664.6 500 L 564.6 500 L 500.4 792 Z"/>
+  <!-- White ring around a green disc; a solid white "f" leaning to the left whose two ends (the foot and the end of the top bar) run into the ring. -->
+  <path fill-rule="evenodd" fill="#ffffff" d="M 42 512 C 42 252.419 252.419 42 512 42 C 771.581 42 982 252.419 982 512 C 982 771.581 771.581 982 512 982 C 252.419 982 42 771.581 42 512 Z M 102 512 C 102 285.557 285.557 102 512 102 C 738.443 102 922 285.557 922 512 C 922 738.443 738.443 922 512 922 C 285.557 922 102 738.443 102 512 Z"/>
+  <path fill="url(#disc)" d="M 102 512 C 102 285.557 285.557 102 512 102 C 738.443 102 922 285.557 922 512 C 922 738.443 738.443 922 512 922 C 285.557 922 102 738.443 102 512 Z"/>
+  <path fill="#ffffff" d="M 557.5 949.6 L 467.6 500 L 377.6 500 L 361.2 418 L 451.2 418 L 440.0 362 C 424.0 282 464.0 222 546.0 222 L 842.9 222 L 900.8 306 L 576.8 306 C 540.8 306 526.4 334 533.2 368 L 543.2 418 L 643.2 418 L 659.6 500 L 559.6 500 L 645.8 931.2 Z"/>
 </svg>
