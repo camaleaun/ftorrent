@@ -10,6 +10,6 @@
   <!-- White ring around a green disc. -->
   <path fill-rule="evenodd" fill="#ffffff" d="M 42 512 C 42 252.419 252.419 42 512 42 C 771.581 42 982 252.419 982 512 C 982 771.581 771.581 982 512 982 C 252.419 982 42 771.581 42 512 Z M 102 512 C 102 285.557 285.557 102 512 102 C 738.443 102 922 285.557 922 512 C 922 738.443 738.443 922 512 922 C 285.557 922 102 738.443 102 512 Z"/>
   <path fill="url(#disc)" d="M 102 512 C 102 285.557 285.557 102 512 102 C 738.443 102 922 285.557 922 512 C 922 738.443 738.443 922 512 922 C 285.557 922 102 738.443 102 512 Z"/>
-  <!-- A solid white "f" leaning to the left: its start (the top of the stem) runs into the ring at the upper left and its foot runs into the ring at the bottom; the right end of the hook is free. -->
-  <path fill="#ffffff" d="M 557.5 949.6 L 467.6 500 L 377.6 500 L 361.2 418 L 451.2 418 L 385.7 90.5 L 474.3 73.6 L 508.0 242 C 519.6 300 542.0 222 582.0 222 L 662.0 222 L 678.8 306 L 598.8 306 C 560.8 306 525.6 330 533.2 368 L 543.2 418 L 643.2 418 L 659.6 500 L 559.6 500 L 645.8 931.2 Z"/>
+  <!-- A solid white "f" leaning to the left. Two ends run into the ring: the foot (bottom) and the left end of the crossbar (the cut of the f). The hook at the top keeps a free end. -->
+  <path fill="#ffffff" d="M 557.5 949.6 L 467.6 500 L 72.2 500 L 82.2 418 L 451.2 418 L 440.0 362 C 424.0 282 464.0 222 546.0 222 L 642.0 222 L 658.8 306 L 576.8 306 C 540.8 306 526.4 334 533.2 368 L 543.2 418 L 643.2 418 L 659.6 500 L 559.6 500 L 645.8 931.2 Z"/>
 </svg>
