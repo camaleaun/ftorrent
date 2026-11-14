@@ -1,6 +1,6 @@
 # fTorrent
 
-<img src="assets/ftorrent-icon-512.png" alt="fTorrent icon: a disc with a slanted f cut out" width="128">
+<img src="assets/ftorrent-icon-512.png" alt="fTorrent icon: a green disc with a slanted f cut out" width="128">
 
 A small native BitTorrent-style client, built with [forge](https://github.com/camaleaun/forge) — a proof of concept for what forge can do beyond a hello world: a multi-screen installer, a classic desktop window (menu bar, toolbar, tree, table, tabs, status bar) and a very small binary.
 

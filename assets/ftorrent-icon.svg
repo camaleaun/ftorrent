@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
   <defs>
     <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffb02e"/>
-      <stop offset="1" stop-color="#ff3b30"/>
+      <stop offset="0" stop-color="#5fe08c"/>
+      <stop offset="1" stop-color="#1e9d55"/>
     </linearGradient>
   </defs>
-  <!-- A disc with a slanted "f" cut out of it (even-odd), so whatever is behind the icon shows through the letter. -->
+  <!-- A green disc with a slanted "f" cut out of it (even-odd), so whatever is behind the icon shows through the letter. -->
   <path fill-rule="evenodd" fill="url(#disc)" d="M 92 512 C 92 280.034 280.034 92 512 92 C 743.966 92 932 280.034 932 512 C 932 743.966 743.966 932 512 932 C 280.034 932 92 743.966 92 512 Z M 408.4 792 L 472.6 500 L 382.6 500 L 400.7 418 L 490.7 418 L 503 362 C 520.6 282 584.5 228 666.5 228 L 762.5 228 L 744 312 L 662 312 C 626 312 601.2 334 593.7 368 L 582.7 418 L 682.7 418 L 664.6 500 L 564.6 500 L 500.4 792 Z"/>
 </svg>
